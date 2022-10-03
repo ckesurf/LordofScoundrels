@@ -10,10 +10,9 @@
 
 // Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-
 // Inline terminal editors (less, or vim)
 // q, or :q to quit out of an inline terminal editor
 
-
 // sunrise in magical forest. a new day approaches
 // riveting prose here
+// fiona
